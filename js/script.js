@@ -1,10 +1,13 @@
 
 
- var message = "Hello World";
+var message = "Hello World";
 
+function sendMessage() {
+    console.log(message);
+}
 
-alert(message = "Hello World");
-
+sendMessage();
 
 console.log(message = "Hello World");
+
 
