@@ -1,1 +1,0 @@
-# Trademark-Hunter
